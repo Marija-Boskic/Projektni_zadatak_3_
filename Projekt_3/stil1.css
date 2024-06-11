@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CCS Document */
+
+@font-face  {
+font-family: "Open Type";
+  src: url("dokumenti/MarijaBoskic.ttf");
+  } 
+  
+h1 {
+
+	font-family: "Open Type";
+	font-size: 50px;
+	color: #5C3317;
+	margin: 30px
+}
+
+div {font-family: Open Type;}
+
+
+.novi_blok{
+	color: #5C3317	;
+	font-family: 'Cinzel', sans-serif;
+	font-size: 18px;
+	background-color: rgba(238, 203, 173, 0.5);
+	padding: 20px;
+	margin: 30px;
+	width: 40%;
+}
+
+.p1 {
+	color: #5C3317	;
+	font-family: 'Cinzel', sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	width: 600px;
+	background-color: #EECBAD;
+	padding: 25px;
+	margin: 30px;
+}
+
+.p2 {color: #5C3317	;
+	font-family: 'Cinzel', sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	width: 600px;
+	background-color: rgba(238, 203, 173, 0.5);
+	padding: 20px;
+	margin: 25px;
+}
+
+.p3 {margin: 20px}
+
+
+h2, h3{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: #5C3317	
+}
+
+h2 {font-size: 40px;}
+
+.pozadina{ background-image:url("slike/pozadina.jpg");}
+
+img {height: 400px;}
+
+img {margin: 20px;}
+
+iframe {margin: 20px}
+
+video{margin: 20px;}
+
